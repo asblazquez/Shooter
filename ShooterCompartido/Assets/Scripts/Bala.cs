@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Bala : MonoBehaviour
 {
+    //Comentario de Bala By Tauste
     public GameObject proyectil;
     // Start is called before the first frame update
     void Start()
